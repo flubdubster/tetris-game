@@ -1,0 +1,24 @@
+{
+  "name": "tetris-game",
+  "version": "1.0.0",
+  "description": "A classic Tetris game built with HTML, CSS, and JavaScript",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "tetris",
+    "game",
+    "html5",
+    "canvas"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14.x"
+  }
+}
