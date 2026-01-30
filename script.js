@@ -4,13 +4,13 @@ const ROWS = 20;
 const BLOCK_SIZE = 30;
 const COLORS = [
     null,
-    '#FF6B6B', // I - Red
-    '#4ECDC4', // O - Teal
-    '#45B7D1', // T - Blue
-    '#FFA07A', // S - Light Orange
-    '#98D8C8', // Z - Mint
-    '#F7DC6F', // J - Yellow
-    '#BB8FCE'  // L - Purple
+    '#8B4513', // I - Oak Wood
+    '#7CFC00', // O - Lime/Slime
+    '#A0522D', // T - Dirt
+    '#808080', // S - Stone
+    '#FF0000', // Z - Redstone
+    '#4169E1', // J - Lapis Lazuli
+    '#FFD700'  // L - Gold Block
 ];
 
 // Tetromino shapes
